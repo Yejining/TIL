@@ -1,5 +1,5 @@
 ## Pytorch Lightning
-[Pytorch Lightning documentation](https://pytorch-lightning.readthedocs.io/en/latest/), [설명 link](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)
+[Pytorch Lightning documentation](https://pytorch-lightning.readthedocs.io/en/latest/), [link1](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09), [link2](https://baeseongsu.github.io/posts/pytorch-lightning-introduction/)
 ```
 Pytorch lightning은 기존 pytorch와 기본적으로 같지만 research code에 대한 structure를 제공한다는 점에서 다르다.
 그렇기 때문에 모델을 만든다든가, 사용할 대의 코드는 pytorch를 사용할 때와 대부분 동일하다.
@@ -30,6 +30,6 @@ Pytorch lightning은 기존 pytorch와 기본적으로 같지만 research code�
 
 ### Pytorch와 강력하게 다른 점
 - Validation and training loop
-  ![validation and training loop](./images/Pytorch_Lightning_1.png)
+  ![validation and training loop](../images/Pytorch_Lightning_1.png)
 - The Lightning Trainer
-  ![The Lightning Trainer](./images/Pytorch_Lightning_2.jpeg)
+  ![The Lightning Trainer](../images/Pytorch_Lightning_2.jpeg)
